@@ -1,26 +1,33 @@
 # Welcome to My Template Repository
-
 This repository is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
-
 Next.js is a framework for building server-rendered React applications. It offers a powerful development experience with features like automatic code splitting, dynamic imports, and hot module replacement.
-
 Tailwind CSS is a utility-first CSS framework that makes it easy to create fast-loading, highly-readable, and fully-responsive designs. By providing a wide range of pre-defined CSS classes, it allows you to quickly build custom designs without writing any CSS yourself.
-
 Together, Next.js and Tailwind CSS provide a powerful combination for building fast, modern, and responsive web applications.
-
 ## Getting Started
 
 To get started with this repository, you will need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (or [yarn](https://yarnpkg.com/)) installed on your machine.
 
- you can start the development server with:
+Once you have those installed, you can clone this repository and install the dependencies by running the following commands:
 
 ```bash
-npm run dev
-```
+git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+cd <YOUR_REPOSITORY>
+npm install
 
 or
 
+git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+cd <YOUR_REPOSITORY>
+yarn install
+```
+
+After that, you can start the development server with:
+
 ```bash
+npm run dev
+
+or
+
 yarn dev
 ```
 
