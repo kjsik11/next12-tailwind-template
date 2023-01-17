@@ -7,7 +7,6 @@
     "@next/next/no-img-element": "warn",
     "unused-imports/no-unused-imports": "warn",
     "import/newline-after-import": "error",
-
     "import/order": [
       "error",
       {
