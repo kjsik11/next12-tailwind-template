@@ -10,7 +10,7 @@
   }
 
   body {
-    @apply font-manta relative text-gray-900;
+    @apply relative text-gray-900;
   }
 
   #__next {
