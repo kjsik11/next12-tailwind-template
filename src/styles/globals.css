@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+
+@layer base {
+  html {
+    @apply h-full;
+  }
+
+  body {
+    @apply font-manta relative text-gray-900;
+  }
+
+  #__next {
+    @apply h-full;
+  }
+
+  a,
+  button,
+  input,
+  select,
+  textarea {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+@layer components {
+}
