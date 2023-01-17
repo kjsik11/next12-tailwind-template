@@ -12,23 +12,7 @@ Together, Next.js and Tailwind CSS provide a powerful combination for building f
 
 To get started with this repository, you will need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (or [yarn](https://yarnpkg.com/)) installed on your machine.
 
-Once you have those installed, you can clone this repository and install the dependencies by running the following commands:
-
-```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
-cd <YOUR_REPOSITORY>
-npm install
-```
-
-or
-
-```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
-cd <YOUR_REPOSITORY>
-yarn install
-```
-
-After that, you can start the development server with:
+ you can start the development server with:
 
 ```bash
 npm run dev
