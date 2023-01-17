@@ -1,7 +1,7 @@
-import '../../styles/globals.css';
+import '../styles/globals.css';
 import { AppProps } from 'next/app';
 
-import CommonLayout from 'component/layout/CommonLayout';
+import CommonLayout from 'layout/CommonLayout';
 
 export default function App({ Component, pageProps }: AppProps) {
   const Layout = (Component as any).Layout || CommonLayout;

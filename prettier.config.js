@@ -4,5 +4,5 @@ module.exports = {
   printWidth: 100,
   trailingComma: 'all',
   tabWidth: 2,
-  tailwindConfig: './styles/tailwind.config.js',
+  tailwindConfig: './tailwind.config.js',
 };
