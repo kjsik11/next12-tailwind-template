@@ -10,13 +10,13 @@ To get started with this repository, you will need to have [Node.js](https://nod
 Once you have those installed, you can clone this repository and install the dependencies by running the following commands:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+git clone https://github.com/kjsik11/next12-tailwind-template.git
 cd <YOUR_REPOSITORY>
 npm install
 
 or
 
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+git clone https://github.com/kjsik11/next12-tailwind-template.git
 cd <YOUR_REPOSITORY>
 yarn install
 ```
